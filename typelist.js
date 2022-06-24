@@ -1,0 +1,5 @@
+console.log(typeof 'String')
+console.log(typeof 9)
+console.log(typeof true)
+console.log(typeof null)
+console.log(typeof undefined)
